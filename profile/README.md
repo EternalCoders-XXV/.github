@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-nginx-009639?style=for-the-badge&logo=nginx&logoColor=FFFFFF"/>
 </div>
 
 <div>
