@@ -1,12 +1,10 @@
-## Hi there 👋
+## 🦊 О нас
 
-<!--
+Мы — команда разработчиков, создающая full-stack приложения с использованием современных технологий. Мы сосредоточены на создании удобных и надёжных решений.
 
-**Here are some ideas to get you started:**
+## 🔥 Разработчики
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+- [ ] [@Belyashik2K](https://github.com/Belyashik2K) >>> Python backend developer / Cybersecurity
+- [ ] [@m1piks](https://github.com/m1piks20) >>> Frontend developer / iOS developer
+- [ ] [@SaScp](https://github.com/orgs/SaScp) >>> Java backend developer / Android developer
